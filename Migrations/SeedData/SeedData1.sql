@@ -1,0 +1,11 @@
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('07788f4ecf174a78aa8248a14b8567eb', 'International Ale');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('0ff7f60954ba46ebbad15b9f5d0a5b8e', 'Other Style');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('22710fa91bbf4454b94555720f6a33dd', 'Irish Ale');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('4fcd53c380e347edb1ca81489b03f902', 'German Lager');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('663f3298411845349f84f45086a06cf3', 'International Lager');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('98b7246d5e1b4592b15adced83ab36d0', 'British Ale');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('b7ee8858a0b549ddb2361e1ed313f6e1', 'Belgian and French Ale');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('bf3112301857461f82c7633c0a695896', 'German Ale');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('e315bd61d4f94ab3a67b28feec8a5343', 'North American Lager');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('e64b30f392b4437b82ec46e764453ac1', 'North American Ale');
+INSERT OR IGNORE INTO Categories (Id, Name) VALUES ('f4afea10f2f04083a5090cbfa688786a', 'Other Lager');
